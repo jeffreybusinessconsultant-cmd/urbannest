@@ -1,0 +1,23 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <rect width="180" height="180" rx="40" fill="#1e3a5f"/>
+  <rect width="180" height="180" rx="40" fill="url(#gradient)" opacity="0.3"/>
+  
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Large "U" for UrbanNest -->
+  <path d="M90 135C107.673 135 122 120.673 122 103V56H108V103C108 113.493 99.4934 122 89 122C78.5066 122 70 113.493 70 103V56H56V103C56 120.673 70.3269 135 90 135Z" fill="#d4af37"/>
+  
+  <!-- Accent dot -->
+  <circle cx="90" cy="39" r="8" fill="#d4af37"/>
+  
+  <!-- Subtle building outline at bottom -->
+  <rect x="70" y="145" width="8" height="20" rx="1" fill="#d4af37" opacity="0.4"/>
+  <rect x="86" y="140" width="8" height="25" rx="1" fill="#d4af37" opacity="0.5"/>
+  <rect x="102" y="145" width="8" height="20" rx="1" fill="#d4af37" opacity="0.4"/>
+</svg>

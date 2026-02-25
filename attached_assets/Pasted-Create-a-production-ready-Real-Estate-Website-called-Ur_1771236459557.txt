@@ -1,0 +1,144 @@
+Create a production-ready Real Estate Website called "UrbanNest Realty".
+
+Tech Stack:
+- Next.js 14+ (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion (for animations)
+- Use clean folder structure
+- Fully responsive
+- SEO optimized
+- Modern UI like premium real estate brands
+
+Project Type:
+This must look like a REAL commercial project, not a demo or student project.
+
+------------------------------------------------------
+
+🌍 WEBSITE NAME:
+UrbanNest Realty
+
+TAGLINE:
+Find Your Dream Home Today
+
+------------------------------------------------------
+
+🖥️ PAGES REQUIRED:
+
+1️⃣ Home Page
+- Hero section with full-width modern luxury house image
+- Search property bar (Location, Price, Type, Bedrooms)
+- Featured properties section (6 cards)
+- Why Choose Us section (icons + stats)
+- Testimonials (3 real-style testimonials)
+- Call to Action section
+- Footer with contact info and social links
+
+2️⃣ Properties Page
+- Property listing grid
+- Filter sidebar (Price range, Property type, Bedrooms, Bathrooms)
+- Each property card:
+  - Image
+  - Price
+  - Title
+  - Location
+  - Area size
+  - Bedrooms
+  - Bathrooms
+  - “View Details” button
+
+3️⃣ Property Details Page (Dynamic Route)
+- Image gallery
+- Property price
+- Description
+- Amenities list
+- Map placeholder section
+- Contact agent form
+
+4️⃣ About Page
+- Company story
+- Mission & Vision
+- Team members section (3 agents with images)
+
+5️⃣ Contact Page
+- Contact form
+- Office address
+- Phone number
+- Google map placeholder
+
+------------------------------------------------------
+
+🏘️ ADD 8 REALISTIC PROPERTY DATA:
+
+Use realistic Indian-style property details like:
+- 3BHK Apartment in Bangalore – ₹1.2 Cr
+- Luxury Villa in Chennai – ₹3.5 Cr
+- 2BHK Flat in Hyderabad – ₹75 Lakh
+- Sea View Apartment in Mumbai – ₹2.8 Cr
+- Modern House in Coimbatore – ₹1.1 Cr
+- Premium Villa in Goa – ₹4.2 Cr
+- Duplex Home in Pune – ₹1.6 Cr
+- Studio Apartment in Delhi – ₹55 Lakh
+
+Each property should have:
+- High-quality real Unsplash image URLs
+- Realistic descriptions
+- Area size in sq.ft
+- Bedrooms & bathrooms
+- Amenities list
+
+------------------------------------------------------
+
+🎨 DESIGN STYLE:
+- Clean white background
+- Luxury dark navy + gold accent
+- Soft shadows
+- Rounded corners (rounded-xl)
+- Smooth hover effects
+- Subtle fade-in animations
+- Professional typography
+
+------------------------------------------------------
+
+✨ ANIMATIONS:
+- Fade-in on scroll
+- Hover scale on property cards
+- Smooth button hover transitions
+
+------------------------------------------------------
+
+🔍 SEO:
+- Proper metadata
+- Page titles
+- Meta descriptions
+
+------------------------------------------------------
+
+📱 RESPONSIVE:
+- Mobile-first design
+- Collapsible navbar
+- Mobile filter drawer
+
+------------------------------------------------------
+
+📂 FOLDER STRUCTURE:
+Organize properly using:
+- /app
+- /components
+- /data
+- /types
+
+------------------------------------------------------
+
+IMPORTANT:
+- Code must be clean
+- Use reusable components
+- Proper TypeScript types
+- No placeholder text like “Lorem Ipsum”
+- Content must feel like a real real estate company
+- Use real Unsplash image links
+- Make it portfolio ready
+
+------------------------------------------------------
+
+Generate complete working code.

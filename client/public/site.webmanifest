@@ -1,0 +1,25 @@
+{
+  "name": "UrbanNest Realty",
+  "short_name": "UrbanNest",
+  "description": "Find your dream home with UrbanNest Realty - Luxury real estate properties",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e3a5f",
+  "theme_color": "#1e3a5f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["business", "lifestyle"],
+  "lang": "en-US"
+}
