@@ -166,7 +166,7 @@ export function Properties() {
           
           {/* Desktop Sidebar */}
           <aside className="hidden lg:block w-72 shrink-0">
-            <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm sticky top-24">
+            <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm sticky top-24 max-h-[calc(100vh-7rem)] overflow-y-auto">
               <div className="flex items-center gap-2 mb-6 text-primary">
                 <Filter className="w-5 h-5" />
                 <span className="font-bold text-lg">Filters</span>
@@ -195,7 +195,7 @@ export function Properties() {
                     <Filter className="w-4 h-4 mr-2" /> Filters
                   </Button>
                 </SheetTrigger>
-                <SheetContent side="left">
+                <SheetContent side="left" className="overflow-y-auto">
                   <div className="mt-6">
                     <FilterContent />
                   </div>
